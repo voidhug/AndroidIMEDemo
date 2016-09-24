@@ -1,0 +1,4 @@
+#Sat Sep 24 10:42:20 CST 2016
+base.0=/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

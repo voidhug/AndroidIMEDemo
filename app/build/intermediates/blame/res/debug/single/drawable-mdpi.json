@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi/sym_keyboard_shift.png",
+        "source": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_shift.png"
+    },
+    {
+        "merged": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi/sym_keyboard_delete.png",
+        "source": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_delete.png"
+    },
+    {
+        "merged": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi/sym_keyboard_language_switch.png",
+        "source": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_language_switch.png"
+    },
+    {
+        "merged": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi/sym_keyboard_search.png",
+        "source": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_search.png"
+    },
+    {
+        "merged": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_en_gb.png",
+        "source": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/icon_en_gb.png"
+    },
+    {
+        "merged": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi/sym_keyboard_return.png",
+        "source": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_return.png"
+    },
+    {
+        "merged": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi/sym_keyboard_space.png",
+        "source": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_space.png"
+    },
+    {
+        "merged": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi/sym_keyboard_done.png",
+        "source": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/sym_keyboard_done.png"
+    },
+    {
+        "merged": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_en_us.png",
+        "source": "/Users/voidhug/GitHub/development-master-samples-SoftKeyboard/app/src/main/res/drawable-mdpi/icon_en_us.png"
+    }
+]
